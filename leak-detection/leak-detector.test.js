@@ -3,7 +3,7 @@
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
 
-var memwatch = require('memwatch-next');
+var memwatch = require('@airbnb/node-memwatch');
 
 describe('leak detector', function() {
   before(function() {
