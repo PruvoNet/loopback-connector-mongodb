@@ -31,7 +31,7 @@
     "loopback-connector": "^2.2.0",
     "mongodb": "^2.2.36",
     "strong-globalize": "^2.6.0",
-    "tunnel-ssh": "^4.1.6"
+    "tunnel-ssh": "^5.2.0"
   },
   "devDependencies": {
     "@airbnb/node-memwatch": "^2.0.0",
