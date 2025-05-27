@@ -1,6 +1,6 @@
 {
-  "name": "loopback-connector-mongodb",
-  "version": "1.18.1",
+  "name": "loopback-connector-mongodb-pruvo",
+  "version": "1.18.2",
   "publishConfig": {
     "tag": "lts"
   },
