@@ -39,7 +39,7 @@
     "loopback-connector": "^7.0.5",
     "mongodb": "^5.9.2",
     "strong-globalize": "^6.0.6",
-    "tunnel-ssh": "^5.2.0"
+    "tunnel-ssh": "^4.1.6"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^20.5.0",
